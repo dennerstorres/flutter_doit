@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974208168087",
+    "project_id": "doit-73e74",
+    "storage_bucket": "doit-73e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974208168087:android:bc410e36a4df8af5cf39d2",
+        "android_client_info": {
+          "package_name": "com.torres.doit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974208168087-6lksld3k85guibk54vt7lgrh0pk5njlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfE-3N9nKZumvs0ZZvtyLyLyEddF9Khk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974208168087-6lksld3k85guibk54vt7lgrh0pk5njlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
